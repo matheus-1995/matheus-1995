@@ -6,7 +6,7 @@
 
 - 🔭 Hoje trabalho com Back-end
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas (2022)
-- 💻 Experiência com JavaScript, TypeScript, Node.js e bancos de dados (PostgreSQL, Firebird e MySQL)
+- 💻 Experiência com JavaScript, Python, TypeScript, Node.js e bancos de dados (PostgreSQL, Firebird e MySQL)
 - 🚀 Atualmente me aprofundando no desenvolvimento mobile com Flutter.
 - 📚 Apaixonado por aprender e compartilhar conhecimento em tecnologia.
 - 🌱 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
